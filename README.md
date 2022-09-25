@@ -1,4 +1,4 @@
-![Github Banner](assets/bangladesh.svg)
+<img src="assets/programmer-reel.gif">
 
 <h1 align="center">Hi <img src="assets/hello.gif" width="26px" alt="hi">, I'm Al-Amin Khan</h1>
 <h2 align="center">A passionate software developer from Bangladesh <img src="assets/bangladesh.svg" width="26px" alt="hi"></h3>
@@ -45,14 +45,6 @@
 
 <br/>
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=AlAmin1097&theme=default&hide_border=false&include_all_commits=false&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlAmin1097&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-
 ---
 
-[![](https://visitcount.itsvg.in/api?id=AlAmin1097&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
+<img align="right" src="https://visitcount.itsvg.in/api?id=AlAmin1097&icon=0&color=0">
