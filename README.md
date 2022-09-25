@@ -1,8 +1,7 @@
 <img src="assets/programmer-reel.gif">
 
 <h1 align="center">Hi <img src="assets/hello.gif" width="26px" alt="hi">, I'm Al-Amin Khan</h1>
-<h2 align="center">A passionate software developer from Bangladesh <img src="assets/bangladesh.svg" width="26px" alt="hi"></h3>
-<br/>
+<h3 align="center">A passionate software developer from Bangladesh <img src="assets/bangladesh.svg" width="26px" alt="hi"></h3>
 
 <div align="center">
 
@@ -13,7 +12,7 @@
 </div>
 <br/><br/>
 
-# 💫 About Me:
+## 💫 About Me:
 
 - 💛 I love **Programming** / **Coding**
 
@@ -25,7 +24,7 @@
 
 <br/>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
