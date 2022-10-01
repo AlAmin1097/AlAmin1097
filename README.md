@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="assets/hello.gif" width="26px" alt="hi">, I'm Al-Amin Khan</h1>
-<h3 align="center">A passionate software developer from Bangladesh <img src="assets/bangladesh.svg" width="26px" alt="hi"></h3>
+<h3 align="center">A passionate software developer from <img src="assets/bangladesh.svg" width="26px" alt="hi"></h3>
 
 <div align="center">
 
